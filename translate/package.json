@@ -1,6 +1,6 @@
 {
   "name": "@pulakghosh90/translate",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "translation util",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "Pulakendu Ghosh",
   "license": "MIT",
   "repository": {
-    "url": "git://github.com/pulakghosh90/translation-util.git"
+    "url": "git://github.com/pulakghosh90/translation-util.git."
   },
   "dependencies": {
     "string-format": "2.0.0"

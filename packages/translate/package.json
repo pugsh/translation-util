@@ -1,0 +1,21 @@
+{
+  "name": "translate",
+  "version": "1.0.0",
+  "description": "translation util",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Pulakendu Ghosh",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "dependencies": {
+    "string-format": "2.0.0"
+  }
+}

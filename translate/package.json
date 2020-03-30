@@ -2,18 +2,15 @@
   "name": "@pulakghosh90/translate",
   "version": "1.0.1",
   "description": "translation util",
-  "main": "dist/index.js",
-  "files": [
-    "dist"
-  ],
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "Pulakendu Ghosh",
   "license": "MIT",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+  "repository": {
+    "url": "git://github.com/pulakghosh90/translation-util.git"
   },
   "dependencies": {
     "string-format": "2.0.0"

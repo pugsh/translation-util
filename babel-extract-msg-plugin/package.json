@@ -2,17 +2,14 @@
   "name": "@pulakghosh90/babel-extract-msg-plugin",
   "version": "1.0.0",
   "description": "extract messages from front end code using babel",
-  "main": "dist/index.js",
-  "files": [
-    "dist"
-  ],
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "Pulakendu Ghosh",
   "license": "MIT",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+  "repository": {
+    "url": "git://github.com/pulakghosh90/translation-util.git"
   }
 }

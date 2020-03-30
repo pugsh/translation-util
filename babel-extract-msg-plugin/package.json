@@ -11,5 +11,8 @@
   "license": "MIT",
   "repository": {
     "url": "git://github.com/pulakghosh90/translation-util.git"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3"
   }
 }

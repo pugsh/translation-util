@@ -1,6 +1,6 @@
 {
   "name": "@pulakghosh90/babel-extract-msg-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "extract messages from front end code using babel",
   "main": "index.js",
   "scripts": {

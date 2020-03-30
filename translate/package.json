@@ -1,7 +1,7 @@
 {
-  "name": "babel-extract-msg-plugin",
-  "version": "1.0.0",
-  "description": "extract messages from front end code using babel",
+  "name": "@pulakghosh90/translate",
+  "version": "1.0.1",
+  "description": "translation util",
   "main": "dist/index.js",
   "files": [
     "dist"
@@ -14,5 +14,8 @@
   "license": "MIT",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
+  },
+  "dependencies": {
+    "string-format": "2.0.0"
   }
 }
